@@ -1,0 +1,16 @@
+{
+    "name": "kenney-hexagon-pack",
+    "version": "1.0.0",
+    "author": {
+        "name": "Lukas Bach",
+        "url": "https://lukasbach.com"        
+    },
+    "description": "Asset pack for the Hexagon Pack developed by kenney.nl",
+    "homepage": "https://kenney.nl/assets/hexagon-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lukasbach/kenney-hexagon-pack.git"
+    },
+    "keywords": ["assets", "game", "ui", "kenney"],
+    "license": "CC0 1.0"
+}
